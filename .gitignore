@@ -1,0 +1,5 @@
+*.dvi
+*.toc
+*.log
+*.aux
+_minted-main
